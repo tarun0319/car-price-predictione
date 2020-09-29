@@ -29,11 +29,11 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ```	
 
 ├── template	
-│   ├── home.html	
+│   ├── index.html	
 ├── Procfile		
 ├── app.py	
-├── flight_price.ipynb	
-├── flight_rf.pkl	
+├── car_price_prediction.ipynb	
+├── random_forest_regression_model.pkl	
 ├── requirements.txt	
 ```	
 
