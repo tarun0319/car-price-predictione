@@ -1,4 +1,4 @@
-# Flight Fare Prediction: 	
+# Car price prediction: 	
 
 ## Table of Content	
   * [Demo](#demo)	
@@ -16,7 +16,7 @@ Link: [https://flight-fare-prediction-tvarma.herokuapp.com/](https://car-price-p
 [![](https://i.imgur.com/DreDJ2Z.png)](https://car-price-prediction-app-tv.herokuapp.com/)
 
 ## Overview	
-This is a Flask web app which predicts fare of Flight ticket.	
+This is a Flask web app which predicts price of used cars using machine learning.	
 
 ## Deployement on Heroku	
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.	
