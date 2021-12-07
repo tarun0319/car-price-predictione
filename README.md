@@ -7,7 +7,7 @@
   * [Directory Tree](#directory-tree)	
 
 ## Demo	
-Link: [https://flight-fare-prediction-tvarma.herokuapp.com/](https://car-price-prediction-app-tv.herokuapp.com/)	
+Link: [https://car-price-prediction-app-tv.herokuapp.com/](https://car-price-prediction-app-tv.herokuapp.com/)	
 
 [![](https://i.imgur.com/y1AiTbJ.png)](https://car-price-prediction-app-tv.herokuapp.com/)	
 
